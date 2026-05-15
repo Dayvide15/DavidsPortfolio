@@ -1,18 +1,13 @@
-Here’s a **clean, professional README** you can paste directly into your Kotlin Android portfolio repo.
 
----
 
-# 📱 Kotlin Android Developer Portfolio
+#  Kotlin Android Developer Portfolio
 
-## 🚀 Overview
+##  Overview
 
 This repository contains a collection of Android applications and Kotlin projects built to demonstrate core software engineering skills, including object-oriented programming, mobile app development, UI design, and problem-solving using modern Android development practices.
 
 These projects were developed as part of coursework and independent learning to strengthen Android development and software engineering fundamentals.
-
----
-
-## 🛠️ Tech Stack
+  Tech Stack
 
 * Kotlin
 * Android SDK
@@ -21,9 +16,8 @@ These projects were developed as part of coursework and independent learning to 
 * Android Studio
 * Git & GitHub
 
----
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 DavidsPortfolio/
@@ -37,7 +31,7 @@ DavidsPortfolio/
 
 ---
 
-## 📱 Features
+## Features
 
 * Kotlin-based Android application development
 * Modular project structure
@@ -48,7 +42,7 @@ DavidsPortfolio/
 
 ---
 
-## 📌 Key Projects Included
+##  Key Projects Included
 
 ### 1. Main Android App
 
@@ -67,7 +61,7 @@ Reusable code structure demonstrating:
 
 ---
 
-## 🎯 Learning Objectives
+##  Learning Objectives
 
 This portfolio demonstrates:
 
@@ -79,7 +73,7 @@ This portfolio demonstrates:
 
 ---
 
-## ▶️ How to Run
+##  How to Run
 
 ### Prerequisites:
 
