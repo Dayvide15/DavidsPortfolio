@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/nav_home">
+
+    <fragment
+        android:id="@+id/nav_home"
+        android:name="edu.wcupa.csc461.shodipe.myapplication.ui.home.HomeFragment"
+        android:label="Home"
+        tools:layout="@layout/fragment_home" />
+
+    <fragment
+        android:id="@+id/nav_project2"
+        android:name="edu.wcupa.csc461.shodipe.myapplication.ui.project2.Project2Fragment"
+        android:label="Project 2" />
+
+    <fragment
+        android:id="@+id/nav_project3"
+        android:name="edu.wcupa.csc461.shodipe.myapplication.ui.project3.Project3Fragment"
+        android:label="Project 3" />
+
+    <fragment
+        android:id="@+id/nav_project4"
+        android:name="edu.wcupa.csc461.shodipe.myapplication.ui.project4.Project4Fragment"
+        android:label="Project 4" />
+
+    <fragment
+        android:id="@+id/nav_project5"
+        android:name="edu.wcupa.csc461.shodipe.myapplication.ui.project5.Project5Fragment"
+        android:label="Project 5" />
+
+</navigation>

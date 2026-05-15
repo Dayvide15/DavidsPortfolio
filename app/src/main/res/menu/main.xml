@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="Home" />
+
+        <item
+            android:id="@+id/nav_project2"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="Project 2" />
+
+        <item
+            android:id="@+id/nav_project3"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="Project 3" />
+
+        <item
+            android:id="@+id/nav_project4"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="Project 4" />
+
+        <item
+            android:id="@+id/nav_project5"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="Project 5" />
+
+    </group>
+
+</menu>
